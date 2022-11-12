@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226,+91-9980923216</h3>
+			<h2>Kiran is practicing docker with Jenkins.</h2>
+			<h3>Contact @ +91-1234567890 ,+91-9980923226,+91-9980923216</h3>
 		</div>	
 	</div>
 
